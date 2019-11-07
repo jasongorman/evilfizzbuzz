@@ -1,1 +1,3 @@
-console.log('Hello, world!');
+const output = require('./output.js');
+
+console.log(output());
